@@ -1,2 +1,2 @@
 # vue-master-admin
-<img src="./vue-typescript-admin-master/demo/dashboard.png">
+<img src="./src/vue-typescript-admin/demo/dashboard.png">
